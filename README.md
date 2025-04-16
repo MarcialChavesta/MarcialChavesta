@@ -1,12 +1,9 @@
 
 <h1 align="center">Hola 👋, soy Marcial Chavesta</h1>
-<h3 align="center">Full Stack Developer apasionado por la tecnología y la resolución de problemas, con formación en Ingeniería de Sistemas y amplia experiencia en gestión administrativa y logística, liderando equipos de trabajo, así como en la enseñanza de Matemáticas, lo que me ha permitido afianzar mi facultad analítica y ofrecer una combinación única de habilidades y conocimientos, abordando los desafíos de manera creativa y efectiva.</h3>
+<h3 align="center">Full Stack y RPA Developer con sólida experiencia en roles de Analista de Sistemas y Analista Programador. Además de mis habilidades técnicas, me destaco por mi excelente trato con el cliente y una atención al usuario de alta calidad. Mi capacidad para realizar cálculos matemáticos con precisión complementa mi perfil técnico, permitiéndome abordar problemas complejos de manera efectiva. Estas habilidades combinadas con mi experiencia en desarrollo web con tecnologías como JavaScript, React, PHP y Node.js además de mi experiencia en plataformas de automatización Cloud y RPA como Uipath y Power Automate me permiten contribuir significativamente al éxito de los proyectos en los que participo.</h3>
 
-- He participado en el proyecto final para el bootcamp de Henry [E-Commerce NOVATECH](https://henrytech.vercel.app)
+- 🌱 Actualmente estoy aprendiendo **MongoDb,TypeScript, Ionic** y afianzando mis conocimientos en Python con problemas reales.
 
-- 🌱 Actualmente estoy aprendiendo **MongoDb,TypeScript, Ionic**
-
-- 👯 Como proyecto individual utilicé la API Pokeapi [Proyecto Individual Pokemon](https://github.com/MarcialChavesta/Proyecto-Individual-Pokemon)
 
 - 📫 Contáctame **marcialchavesta@gmail.com**
 
